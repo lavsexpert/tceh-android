@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/lab02-international" />
             <option value="$PROJECT_DIR$/lab03-animsample" />
             <option value="$PROJECT_DIR$/lab04-linearlayout" />
+            <option value="$PROJECT_DIR$/lab05-relativelayout" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

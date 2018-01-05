@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab05-RelativeLayout</string>
+    <string name="label_text">Input text:</string>
+    <string name="entry_hint">Input</string>
+</resources>
