@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/lab03-animsample" />
             <option value="$PROJECT_DIR$/lab04-linearlayout" />
             <option value="$PROJECT_DIR$/lab05-relativelayout" />
+            <option value="$PROJECT_DIR$/lab06-viewpager" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
