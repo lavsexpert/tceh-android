@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab01-helloworld/lab01-helloworld.iml" filepath="$PROJECT_DIR$/lab01-helloworld/lab01-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab02-international/lab02-international.iml" filepath="$PROJECT_DIR$/lab02-international/lab02-international.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab03-animsample/lab03-animsample.iml" filepath="$PROJECT_DIR$/lab03-animsample/lab03-animsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/tceh.iml" filepath="$PROJECT_DIR$/tceh.iml" />
     </modules>
   </component>

@@ -10,6 +10,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/lab01-helloworld" />
+            <option value="$PROJECT_DIR$/lab02-international" />
+            <option value="$PROJECT_DIR$/lab03-animsample" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
