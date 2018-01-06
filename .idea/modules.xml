@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/lab08-listview/lab08-listview.iml" filepath="$PROJECT_DIR$/lab08-listview/lab08-listview.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab09-controls/lab09-controls.iml" filepath="$PROJECT_DIR$/lab09-controls/lab09-controls.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab10-intent/lab10-intent.iml" filepath="$PROJECT_DIR$/lab10-intent/lab10-intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab11-receiver/lab11-receiver.iml" filepath="$PROJECT_DIR$/lab11-receiver/lab11-receiver.iml" />
       <module fileurl="file://$PROJECT_DIR$/tceh.iml" filepath="$PROJECT_DIR$/tceh.iml" />
     </modules>
   </component>

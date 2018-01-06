@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/lab08-listview" />
             <option value="$PROJECT_DIR$/lab09-controls" />
             <option value="$PROJECT_DIR$/lab10-intent" />
+            <option value="$PROJECT_DIR$/lab11-receiver" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
