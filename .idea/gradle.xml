@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/lab06-viewpager" />
             <option value="$PROJECT_DIR$/lab07-webview" />
             <option value="$PROJECT_DIR$/lab08-listview" />
+            <option value="$PROJECT_DIR$/lab09-controls" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

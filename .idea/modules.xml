@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/lab06-viewpager/lab06-viewpager.iml" filepath="$PROJECT_DIR$/lab06-viewpager/lab06-viewpager.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab07-webview/lab07-webview.iml" filepath="$PROJECT_DIR$/lab07-webview/lab07-webview.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab08-listview/lab08-listview.iml" filepath="$PROJECT_DIR$/lab08-listview/lab08-listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab09-controls/lab09-controls.iml" filepath="$PROJECT_DIR$/lab09-controls/lab09-controls.iml" />
       <module fileurl="file://$PROJECT_DIR$/tceh.iml" filepath="$PROJECT_DIR$/tceh.iml" />
     </modules>
   </component>
