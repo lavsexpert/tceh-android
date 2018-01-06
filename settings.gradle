@@ -1,1 +1,1 @@
-include ':app', ':lab01-helloworld', ':lab02-international', ':lab03-animsample', ':lab04-linearlayout', ':lab05-relativelayout', ':lab06-viewpager', ':lab07-webview'
+include ':app', ':lab01-helloworld', ':lab02-international', ':lab03-animsample', ':lab04-linearlayout', ':lab05-relativelayout', ':lab06-viewpager', ':lab07-webview', ':lab08-listview', ':lab09-controls'
