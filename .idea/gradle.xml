@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/lab04-linearlayout" />
             <option value="$PROJECT_DIR$/lab05-relativelayout" />
             <option value="$PROJECT_DIR$/lab06-viewpager" />
+            <option value="$PROJECT_DIR$/lab07-webview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
