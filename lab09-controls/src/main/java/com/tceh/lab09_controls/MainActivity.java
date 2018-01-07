@@ -63,6 +63,4 @@ public class MainActivity extends AppCompatActivity {
         userName.setText("");
         Toast.makeText(this, "Текст очищен", Toast.LENGTH_SHORT).show();
     }
-
-
 }

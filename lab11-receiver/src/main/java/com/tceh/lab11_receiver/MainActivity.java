@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         public void onReceive(Context context, Intent intent) {
             int level = intent.getIntExtra(BatteryManager.EXTRA_LEVEL, -1);
             int scale = intent.getIntExtra(BatteryManager.EXTRA_SCALE, -1);
-            float batteryPct = level / (float)scale * 100;
+            float batteryPct = Math.round(level / (float)scale * 100);
             mLevel.setText("Уровень заряда " + batteryPct + "%");
         }
     }
