@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/lab10-intent" />
             <option value="$PROJECT_DIR$/lab11-receiver" />
             <option value="$PROJECT_DIR$/lab13-sharedpreferences" />
+            <option value="$PROJECT_DIR$/lab14-file" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

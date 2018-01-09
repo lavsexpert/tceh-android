@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/lab10-intent/lab10-intent.iml" filepath="$PROJECT_DIR$/lab10-intent/lab10-intent.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab11-receiver/lab11-receiver.iml" filepath="$PROJECT_DIR$/lab11-receiver/lab11-receiver.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab13-sharedpreferences/lab13-sharedpreferences.iml" filepath="$PROJECT_DIR$/lab13-sharedpreferences/lab13-sharedpreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab14-file/lab14-file.iml" filepath="$PROJECT_DIR$/lab14-file/lab14-file.iml" />
       <module fileurl="file://$PROJECT_DIR$/tceh.iml" filepath="$PROJECT_DIR$/tceh.iml" />
     </modules>
   </component>
