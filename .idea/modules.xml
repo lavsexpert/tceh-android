@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/lab13-sharedpreferences/lab13-sharedpreferences.iml" filepath="$PROJECT_DIR$/lab13-sharedpreferences/lab13-sharedpreferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab14-file/lab14-file.iml" filepath="$PROJECT_DIR$/lab14-file/lab14-file.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab15-notes/lab15-notes.iml" filepath="$PROJECT_DIR$/lab15-notes/lab15-notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab16-contacts/lab16-contacts.iml" filepath="$PROJECT_DIR$/lab16-contacts/lab16-contacts.iml" />
       <module fileurl="file://$PROJECT_DIR$/tceh.iml" filepath="$PROJECT_DIR$/tceh.iml" />
     </modules>
   </component>
