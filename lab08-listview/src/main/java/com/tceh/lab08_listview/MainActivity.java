@@ -16,7 +16,6 @@ public class MainActivity extends ListActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //setContentView(R.layout.activity_main);
 
         Resources r = getResources();
         String[] countryArray = r.getStringArray(R.array.eu_members);
